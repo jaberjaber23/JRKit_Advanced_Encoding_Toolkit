@@ -10,6 +10,7 @@ You can install JRKit using pip:
 
 ```shell
 pip install jrkit
+```
 Usage
 python
 Copy code
