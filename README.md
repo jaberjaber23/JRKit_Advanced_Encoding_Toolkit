@@ -2,7 +2,7 @@
 
 JRKit is a powerful Python library for advanced data encoding techniques. It provides a collection of innovative encoding methods designed to enhance data representation and feature extraction.
 
-![IMG-9570 (1)](https://github.com/jaberjaber23/JR_Advanced_Encoding_Toolkit/assets/103749727/eac0151f-3cfe-4498-8643-3a33cb1719b3)
+![JRKit Logo](https://github.com/jaberjaber23/JR_Advanced_Encoding_Toolkit/assets/103749727/eac0151f-3cfe-4498-8643-3a33cb1719b3)
 
 ## Installation
 
@@ -10,8 +10,6 @@ You can install JRKit using pip:
 
 ```shell
 pip install jrkit
-```shell
-
 Usage
 python
 Copy code
@@ -38,7 +36,7 @@ We welcome contributions from the community. To contribute to JRKit, please read
 License
 JRKit is distributed under the MIT License.
 
-rust
+bash
 Copy code
 
-Replace the URL for the JRKit logo (`https://example.com/jrkit-logo.png`) with the actual URL
+Make sure to replace the URL for the JRKit logo (`https://github.com/jaberjaber23/JR_Advanced_Encoding_Toolkit/assets/103749727/eac0151f-3cfe-4498-8643-3a33cb1719b3`) with the actual URL where the logo is hosted. Similarly, update the documentation link (`https://jrkit-documentation-url`) and the contribution gui
