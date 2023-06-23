@@ -16,8 +16,9 @@ pip install jrkit
 
 JrKit requires the following dependencies:
 
-- [NumPy](https://numpy.org): Version X.X.X or above
-- [Pandas](https://pandas.pydata.org): Version X.X.X or above
+- [Python](https://pandas.pydata.org): Version 3.8 or above
+- [NumPy](https://numpy.org): Version 1.17.3 or above
+- [Pandas](https://pandas.pydata.org): Version 1.4.0 or above
 
 You can install these dependencies using `pip`:
 
