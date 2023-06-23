@@ -13,10 +13,17 @@ pip install jrkit
 
 ## Usage
 ```shell
-import jrkit
+from jrkit import RegularizedLinearRegressionEncoder
 
-# Example code showcasing the usage of JRKit encoding methods
-# ...
+X = ..
+y = ..
+
+# Fit the encoder to the data
+encoder = RegularizedLinearRegressionEncoder()
+encoder.fit(X, y)
+
+# Transform the data
+X_transformed = encoder.transform(X)
 ```
 
 ## Encoding Methods
