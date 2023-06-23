@@ -7,7 +7,7 @@ Installation
 You can install JRKit using pip:
 
 ```shell
-pip install jrkit
+pip3 install jrkit
 ```
 
 
