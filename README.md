@@ -1,4 +1,6 @@
 # JRKit
+[![PyPI](https://img.shields.io/pypi/v/JrKit)](https://pypi.org/project/JrKit/)
+
 ![IMG-9570 (1)](https://github.com/jaberjaber23/JRKit_Advanced_Encoding_Toolkit/assets/103749727/8fcbe7cf-c061-4eb7-97a9-8aaedf39b71a)
 
 JRKit is a powerful Python library for advanced data encoding techniques. It provides a collection of innovative encoding methods meticulously crafted to enhance data representation and feature extraction. These techniques address various encoding challenges, resulting in improved model performance and insightful data analysis.
@@ -7,7 +9,7 @@ Installation
 You can install JRKit using pip:
 
 ```shell
-pip3 install jrkit
+pip install jrkit
 ```
 
 
