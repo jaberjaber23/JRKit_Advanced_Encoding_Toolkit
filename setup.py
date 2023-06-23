@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='JrKit',
-    version='1.0.0',
+    version='0.0.1',
     author='Jaber Jaber',
     author_email='Jaberib647@gmail.com',
     description='JR\'s Advanced Encoding Toolkit: Innovative encoding methods for data representation and feature extraction',
