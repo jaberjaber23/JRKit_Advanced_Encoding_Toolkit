@@ -1,4 +1,7 @@
-# JR's Advanced Encoding Techniques
+# JR's Advanced Encoding Toolkit
+
+![IMG-9570 (1)](https://github.com/jaberjaber23/JR_Advanced_Encoding_Toolkit/assets/103749727/eac0151f-3cfe-4498-8643-3a33cb1719b3)
+
 
 JR presents a collection of innovative encoding methods, meticulously crafted to enhance data representation and feature extraction. These techniques address various encoding challenges, resulting in improved model performance and insightful data analysis.
 
