@@ -5,13 +5,25 @@
 
 JRKit is a powerful Python library for advanced data encoding techniques. It provides a collection of innovative encoding methods meticulously crafted to enhance data representation and feature extraction. These techniques address various encoding challenges, resulting in improved model performance and insightful data analysis.
 
-Installation
+## Installation
 You can install JRKit using pip:
 
 ```shell
 pip install jrkit
 ```
 
+## Dependencies
+
+JrKit requires the following dependencies:
+
+- [NumPy](https://numpy.org): Version X.X.X or above
+- [Pandas](https://pandas.pydata.org): Version X.X.X or above
+
+You can install these dependencies using `pip`:
+
+```shell
+pip install numpy pandas
+```
 
 ## Usage
 ```shell
