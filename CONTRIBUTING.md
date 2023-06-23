@@ -5,10 +5,15 @@ To contribute, please follow these steps:
 
 Fork the JRKit repository and clone it to your local machine.
 Create a new branch for your contribution: ```shell git checkout -b your-branch-name. ```
+
 Make your desired changes and improvements.
+
 Test your changes thoroughly.
+
 Commit your changes: ```shell git commit -m "Your commit message". ```
+
 Push to your branch: ```shell git push origin your-branch-name. ```
+
 Open a pull request in the main JRKit repository.
 
 
