@@ -58,7 +58,7 @@ JR's Advanced Encoding Toolkit offers a versatile set of encoding techniques for
 
 
 ## Contributing
-I welcome contributions from the library. To contribute to JRKit, please read the CONTRIBUTING.md.
+I appreciate contributions to the library. If you're interested in contributing to JRKit, please take a moment to read the CONTRIBUTING.md file.
 
 ## License
 JRKit is distributed under the MIT License.
